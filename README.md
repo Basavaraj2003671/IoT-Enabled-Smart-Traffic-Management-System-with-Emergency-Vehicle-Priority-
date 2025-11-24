@@ -1,0 +1,2 @@
+# IoT-Enabled-Smart-Traffic-Management-System-with-Emergency-Vehicle-Priority-
+This project presents an intelligent traffic management system that integrates automatic ambulance detection, pollution monitoring, pedestrian safety, and solar-powered control. The system enhances road safety, reduces delays for emergency vehicles, and minimizes environmental pollution using embedded systems, sensors, and renewable energy sources.
